@@ -1,0 +1,15 @@
+h1 {
+    color: black;
+    background-color: red;
+    text-align: center;
+}
+li {
+    font-size: 2em;
+    color: greenyellow;
+}
+a {
+    text-align: center;
+}
+h2 {
+    color: blue;
+}

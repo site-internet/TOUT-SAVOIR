@@ -1,0 +1,28 @@
+body {
+    background-color: gainsboro;
+}
+h1 {
+    color: black;
+    background-color: red;
+    text-align: center;
+}
+p {
+    font-size: 2em;
+}
+h2 {
+    color: black;
+    text-align: center;
+    background-color: red;
+}
+ul {
+    color: lightseagreen;
+    font-size: 2em;
+}
+.ma-class2 {
+    font-weight: 700;
+}
+h3 {
+    color: red;
+    text-align: center;
+    font-weight: 700;
+}
